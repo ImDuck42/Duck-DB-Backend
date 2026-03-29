@@ -4,6 +4,8 @@
   "passwordHash": "a8ad96d2057b7e8747225536752e35b4:6521bad1eb54d493c35aa4878ff0d7b94f6da79e9f3cf8b910c4fb6a67636b56",
   "createdAt": "2026-03-29T10:54:47.933Z",
   "roles": [
-    "user"
-  ]
+    "user",
+    "contributor"
+  ],
+  "updatedAt": "2026-03-29T11:07:53.668Z"
 }
