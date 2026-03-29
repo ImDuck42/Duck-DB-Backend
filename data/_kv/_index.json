@@ -1,9 +1,7 @@
 {
   "files": [
     "_admin-exists.json",
-    "_public.json",
-    "claims_ImDuck42_2026-03-29.json",
-    "claims_ImDuck43_2026-03-29.json"
+    "_public.json"
   ],
   "updatedAt": "2026-03-29T11:36:49.926Z"
 }
